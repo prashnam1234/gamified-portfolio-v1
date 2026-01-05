@@ -1,3 +1,5 @@
+### 🚀 Live Demo
+[Click here to view the live project](https://prashnam1234.github.io/gamified-portfolio-v1/)
 # Gamified Portfolio Experiment (v1)
 
 > 🎨 **UX Experiment:** A non-traditional landing page concept.
